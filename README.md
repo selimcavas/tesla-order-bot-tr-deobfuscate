@@ -1,5 +1,3 @@
-# tesla-order-bot-tr-deobfuscate
-
 # Tesla TR Sipariş Botu Deobfuscate
 
 - Kodun sahibi ben değilim sadece deobfuscate ettim.
